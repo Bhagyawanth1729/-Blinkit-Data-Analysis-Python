@@ -1,4 +1,5 @@
-# -Blinkit-Data-Analysis-Python
+"Blinkit Data Analysis in Python – Everything I Learned from the Data Totorial YT Channel."
+
 BUSINESS REQUIREMENT.
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
@@ -30,6 +31,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 6. Sales by Outlet Location:
 	Objective: Assess the geographic distribution of sales across different locations.
 	Chart Type: Funnel Map.
+
+
 
 
 
